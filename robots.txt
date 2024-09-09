@@ -1,0 +1,3 @@
+# https://www.userstxt.org/userstxt.html
+User-agent: *
+Disallow:
